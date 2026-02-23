@@ -41,7 +41,7 @@ Future → NL endpoint + LLM hook
 ## Installation
 
 ``` bash
-git clone <your-repo>
+git clone git@github.com:MadhavVij/dominsights.git
 cd dominsights
 
 uv venv
